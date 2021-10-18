@@ -2,18 +2,25 @@
 
 ---
 
-#### Currently student at Codecool Academy!
+#### About me:
+👨🏻&zwj;💻  Currently student at Codecool Academy!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **Spring**, **React**, **AntDesign**
-- 📫 How to reach me: matei.g.florentina@gmail.com
+I'm an enthusiastic learner always looking for self improvement!
+
+
 
 
 #### Connect with me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/florentina-matei-85381417a/)
-&nbsp;
+
+<a href="https://www.linkedin.com/in/florentina-matei-85381417a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/florentina-matei-85381417a/"/></a> <a href="mailto:matei.g.florentina@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:matei.g.florentina@gmail.com"/></a>
 
 ---
+
+#### GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=floaredemai&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floaredemai&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%"/>
 
 #### <img class="emoji" alt="hammer_and_wrench" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"/> Tech Stack
 

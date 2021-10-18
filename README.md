@@ -18,9 +18,9 @@ I'm an enthusiastic learner always looking for self improvement!
 
 #### GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floaredemai&layout=compact&show_icons=true&theme=dark)](https://github.com/floaredemai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floaredemai&show_icons=true&theme=dark)](https://github.com/floaredemai/github-readme-stats)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=floaredemai&show_icons=true&theme=dark)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=floaredemai&layout=compact&show_icons=true&theme=dark)](https://github.com/floaredemai/github-readme-stats)
 
 
 

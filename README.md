@@ -18,9 +18,11 @@ I'm an enthusiastic learner always looking for self improvement!
 
 #### GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=floaredemai&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floaredemai&layout=compact&show_icons=true&theme=dark)](https://github.com/floaredemai/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floaredemai&amp;layout=compact&amp;langs_count=8&amp;theme=algolia;" style="max-width: 100%"/>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=floaredemai&show_icons=true&theme=dark)
+
+
 
 #### <img class="emoji" alt="hammer_and_wrench" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"/> Tech Stack
 

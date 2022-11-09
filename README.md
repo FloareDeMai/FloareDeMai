@@ -3,7 +3,7 @@
 ---
 
 #### About me:
-👨🏻&zwj;💻  Currently student at Codecool Academy!
+👨🏻&zwj;💻 Junior fullstack developer
 
 I'm an enthusiastic learner always looking for self improvement!
 
